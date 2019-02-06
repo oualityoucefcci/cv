@@ -1,0 +1,83 @@
+title{color: red;}
+.titre{text-align:center;
+text-decoration:blink;
+text-transform:capitalize;/*affiche la 1er lettre en majuscul et la suite de mot en miniscule et ainsi de suite pour tout le txt*/
+letter-spacing:3px;/*Espacement entre les lettres*/
+text-shadow: 3px 3px 4px black;/*pour afficher l'arriré d'un texte*/
+line-height:10px;
+;} /*_"position:fixed"_ c'est pour fixer la position*/
+
+/*body{background-color : gray;}*/
+body{
+background-image:url(chimie.png);
+background-repeat:repeat;
+/*background:linear-gradient(to right,blue,red);pour faire des couleurs dégradés de gauche vers la droite*/
+}
+.audio{position:fixed;}
+
+.mdl-slider__container {
+    background-color: white !important; /* Met le fond de la barre en blanc */
+    position: fixed !important; /* Permet de définir la position de la barre comme fixe */
+    top: 0; /* Défini la postion de la barre en haut */
+    z-index: 200; /* Une valeur élevée ici permet de s'assurer que l'élément est au dessus des autres */
+    width: 600vw; /* Défini la largeur de l'élément comme étant 100% de la largeur de l'écran */
+}
+
+#CV
+{
+	width: 800px;
+	margin:0 auto;
+	background-color:#D3D3D3;
+	text-align:;
+	align-content:0 auto;
+	border-left-width:40px;
+}
+.coordonn{
+	text-indent:0px;
+text-align:center;
+
+/*box-shadow:1px 1px 1px 2px yellow;cette fonction ne permet d'arrieré la box en ajouté ces parametres de bourdures*/
+padding-right:400px;
+border-style:dashed;
+border-color:maroon;
+border-width:2px;
+}
+
+alert('bonjour');
+
+.titre{font-size:33px;}
+.formation{text-align:center;}
+.experienc{text-align:center;}
+.langu{text-align:center;}
+.centre_interet{text-align:center;}
+.compĂ©tenc{text-align:center;}
+
+	
+}
+.centre_interets{text-align:center;}
+#{text-decoration:underline;}
+
+.nom{text-decoration:underline;}
+.coordonn{
+	border-top-left-radius:30px;
+border-bottom-right-radius:30px;}
+
+.photo{                /*On ajoute le titre de la photo et lorsqu'on position le curseur sur la photo ne sort le nom de la photo */
+	width:150px;
+	height:150px;
+	border:2px solid black;
+	padding:4px;
+	margin: 50px;
+	
+}
+
+.vert{background-color: #7CFC00; display: block;}
+.rouge{background-color: #ff9999; display: block;}
+.jaune{background-color:#FFFF00;display:block;}
+.gold{background-color:#FFD700;display:block;}
+.maron{background-color:#ADFF2F;display:block;}
+.orange{background-color:#ffa500;display:block;}
+
+<script>
+alert('bonjour');
+</script>
